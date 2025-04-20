@@ -28,7 +28,6 @@ def lsnr_analyze_stock(style: str, stock: str) -> gr.Markdown:
         print(e)
     else:
         print("[INFO]: DONE")
-        #  icon="frontend/download.png",
         btn_download = gr.DownloadButton(
             label="Download Report",
             value=REPORT_FILE_PATH,
