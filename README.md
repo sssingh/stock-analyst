@@ -5,6 +5,8 @@
 > and generate a well formatted report that can be copied in `markdown`
 > format or can be downloaded in `pdf`.
 
+🎥 Check out the [YouTube tutorial](https://youtu.be/oGD-115BhIc) for a detailed discussion & step-by-step guide, and stay tuned for more GenAI projects! 🌐 
+
 ## App High Level Design
 
 ![Abstract](/shared/readme-conceptual-design-abstract.png)
